@@ -3,4 +3,9 @@
 
 ## How to run the code
 - Install required packages (found in requirements.txt)
-- Per ability, walk through the notebook, the notebook provides insight into the behaviour of the different SRL Models
+- Per ability, walk through the notebook, the notebooks provide a deeper insight into the behaviour of the different SRL Models and the interpretability of their output.
+
+## It is also possible to skip the running of the code and look at the results of running various experiments. To run the experiments, datasets were
+
+
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
