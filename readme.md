@@ -1,4 +1,4 @@
-# Readme for the project 
+# Readme
 **Please note, because of the absence of the possibility to give a seed to the template module from the Checklist Editor package, the results may vary from the results as described in the report.**
 
 ## How to run the code
@@ -6,12 +6,7 @@
 - Per ability, walk through the notebook, the notebooks provide a deeper insight into the behaviour of the different SRL Models and the interpretability of their output.
 
 ## It is also possible to skip the running of the code and look at the results of running various experiments. 
-To run the experiments, [a link](/datasets)were created using the CheckList module.
-
-
-<a href="../../tree/master/datasets">link to top</a>
-
-https://github.com/sybmo/the_NLP/tree/main/notebooks
+To run the experiments, [datasets](/datasets)were created using the CheckList module. Two SRL-prediction models were run on these datasets and produced the [results](/results)
 
 
 
