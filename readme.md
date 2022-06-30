@@ -6,7 +6,7 @@
 - Per ability, walk through the notebook, the notebooks provide a deeper insight into the behaviour of the different SRL Models and the interpretability of their output.
 
 ## It is also possible to skip the running of the code and look at the results of running various experiments. 
-To run the experiments, [a link](/datasets](https://github.com/sybmo/the_NLP/tree/main/datasets)) were created using the CheckList module.
+To run the experiments, [a link](/datasets)were created using the CheckList module.
 
 
 <a href="../../tree/master/datasets">link to top</a>
