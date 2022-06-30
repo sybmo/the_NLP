@@ -6,7 +6,7 @@
 - Per ability, walk through the notebook, the notebooks provide a deeper insight into the behaviour of the different SRL Models and the interpretability of their output.
 
 ## It is also possible to skip the running of the code and look at the results of running various experiments. 
-To run the experiments, [datasets](/datasets)were created using the CheckList module. Two SRL-prediction models were run on these datasets and produced the [results](/results)
+To run the experiments, [datasets](/datasets) were created using the CheckList module. Two SRL-prediction models were run on these datasets and produced the [results](/results)
 
 
 
