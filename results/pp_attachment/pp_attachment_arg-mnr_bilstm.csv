@@ -1,0 +1,151 @@
+,0,pp_tag,pp_descr,1
+0,I saw the rolling office chair with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the rolling office chair with my eyes] .,I-ARG1
+1,I saw the orange juice box with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the orange juice box with my eyes] .,I-ARG1
+2,I saw the telephone with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the telephone with my eyes] .,I-ARG1
+3,I saw the toothbrush with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the toothbrush with my eyes] .,I-ARG1
+4,I saw the footstool with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the footstool with my eyes] .,I-ARG1
+5,I saw the pliers with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the pliers with my eyes] .,I-ARG1
+6,I saw the milk jug with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the milk jug with my eyes] .,I-ARG1
+7,I saw the book with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the book with my eyes] .,I-ARG1
+8,I saw the refrigerator with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the refrigerator with my eyes] .,I-ARG1
+9,I saw the standing lamp with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the standing lamp with my eyes] .,I-ARG1
+10,I saw the coffeepot with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the coffeepot with my eyes] .,I-ARG1
+11,I saw the spray bottle with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the spray bottle with my eyes] .,I-ARG1
+12,I saw the wooden chair with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the wooden chair with my eyes] .,I-ARG1
+13,I saw the umbrella with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the umbrella with my eyes] .,I-ARG1
+14,I saw the teapot with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the teapot with my eyes] .,I-ARG1
+15,I saw the power outlet with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the power outlet with my eyes] .,I-ARG1
+20,I saw the coffee mug with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the coffee mug with my eyes] .,I-ARG1
+21,I saw the dresser with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the dresser with my eyes] .,I-ARG1
+24,I saw the desk lamp with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the desk lamp with my eyes] .,I-ARG1
+28,I saw the toothpaste with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the toothpaste with my eyes] .,I-ARG1
+29,I saw the sofa with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the sofa with my eyes] .,I-ARG1
+30,I saw the briefcase with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the briefcase with my eyes] .,I-ARG1
+32,I saw the iron with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the iron with my eyes] .,I-ARG1
+35,I saw the bathtub with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the bathtub with my eyes] .,I-ARG1
+36,I saw the stove with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: saw] [ARG1: the stove] [ARGM-MNR: with my eyes] .,I-ARGM-MNR
+37,I saw the fork with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the fork with my eyes] .,I-ARG1
+40,I saw the baby bottle with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the baby bottle with my eyes] .,I-ARG1
+43,I saw the stapler with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the stapler with my eyes] .,I-ARG1
+46,I saw the spoon with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the spoon with my eyes] .,I-ARG1
+48,I saw the teacup with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the teacup with my eyes] .,I-ARG1
+52,I saw the plush chair with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the plush chair with my eyes] .,I-ARG1
+53,I saw the toilet with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the toilet with my eyes] .,I-ARG1
+65,I saw the shoe with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the shoe with my eyes] .,I-ARG1
+70,I saw the ornate mirror with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the ornate mirror with my eyes] .,I-ARG1
+75,I saw the bathroom sink with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the bathroom sink with my eyes] .,I-ARG1
+83,I saw the kitchen table with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the kitchen table with my eyes] .,I-ARG1
+98,I saw the clothespin with my eyes.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: saw] [ARG1: the clothespin with my eyes] .,I-ARG1
+100,I smelled the sofa with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the sofa] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+101,I smelled the book with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the book with my nose] .,I-ARG1
+102,I smelled the footstool with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the footstool with my nose] .,I-ARG1
+103,I smelled the bathtub with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the bathtub] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+104,I smelled the teacup with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the teacup with my nose] .,I-ARG1
+105,I smelled the kitchen table with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the kitchen table] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+106,I smelled the toothpaste with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the toothpaste with my nose] .,I-ARG1
+107,I smelled the wooden chair with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the wooden chair with my nose] .,I-ARG1
+108,I smelled the hammer with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the hammer] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+110,I smelled the toothbrush with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the toothbrush with my nose] .,I-ARG1
+111,I smelled the coffee table with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the coffee table] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+112,I smelled the briefcase with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the briefcase] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+114,I smelled the fork with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the fork] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+115,I smelled the pliers with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the pliers with my nose] .,I-ARG1
+116,I smelled the bathroom sink with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the bathroom sink with my nose] .,I-ARG1
+117,I smelled the standing lamp with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the standing lamp] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+118,I smelled the power outlet with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the power outlet with my nose] .,I-ARG1
+119,I smelled the teapot with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the teapot with my nose] .,I-ARG1
+120,I smelled the stapler with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the stapler with my nose] .,I-ARG1
+122,I smelled the tape dispenser with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the tape dispenser with my nose] .,I-ARG1
+123,I smelled the dresser with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the dresser] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+125,I smelled the orange juice box with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the orange juice box with my nose] .,I-ARG1
+130,I smelled the knife with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the knife] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+131,I smelled the clothespin with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the clothespin with my nose] .,I-ARG1
+133,I smelled the rolling office chair with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the rolling office chair with my nose] .,I-ARG1
+135,I smelled the spoon with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the spoon] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+136,I smelled the toilet with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the toilet] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+138,I smelled the iron with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the iron with my nose] .,I-ARG1
+140,I smelled the refrigerator with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the refrigerator] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+143,I smelled the umbrella with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the umbrella with my nose] .,I-ARG1
+145,I smelled the stove with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the stove] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+147,I smelled the ornate mirror with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the ornate mirror with my nose] .,I-ARG1
+150,I smelled the plush chair with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the plush chair with my nose] .,I-ARG1
+152,I smelled the spray bottle with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the spray bottle with my nose] .,I-ARG1
+153,I smelled the baby bottle with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the baby bottle with my nose] .,I-ARG1
+169,I smelled the telephone with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the telephone with my nose] .,I-ARG1
+172,I smelled the coffeepot with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the coffeepot with my nose] .,I-ARG1
+183,I smelled the shoe with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: smelled] [ARG1: the shoe] [ARGM-MNR: with my nose] .,I-ARGM-MNR
+186,I smelled the soap dispenser with my nose.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: smelled] [ARG1: the soap dispenser with my nose] .,I-ARG1
+200,I heard the coffee table with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the coffee table with my ears] .,I-ARG1
+201,I heard the toothpaste with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: heard] [ARG1: the toothpaste] [ARGM-MNR: with my ears] .,I-ARGM-MNR
+202,I heard the wooden chair with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the wooden chair with my ears] .,I-ARG1
+203,I heard the teapot with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the teapot with my ears] .,I-ARG1
+204,I heard the shoe with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: heard] [ARG1: the shoe] [ARGM-MNR: with my ears] .,I-ARGM-MNR
+206,I heard the toothbrush with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the toothbrush with my ears] .,I-ARG1
+207,I heard the plush chair with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the plush chair with my ears] .,I-ARG1
+208,I heard the pliers with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the pliers with my ears] .,I-ARG1
+209,I heard the bathroom sink with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the bathroom sink with my ears] .,I-ARG1
+210,I heard the briefcase with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: heard] [ARG1: the briefcase] [ARGM-MNR: with my ears] .,I-ARGM-MNR
+211,I heard the ornate mirror with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the ornate mirror with my ears] .,I-ARG1
+213,I heard the stove with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: heard] [ARG1: the stove] [ARGM-MNR: with my ears] .,I-ARGM-MNR
+214,I heard the spray bottle with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the spray bottle with my ears] .,I-ARG1
+216,I heard the coffee mug with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the coffee mug with my ears] .,I-ARG1
+218,I heard the baby bottle with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the baby bottle with my ears] .,I-ARG1
+219,I heard the dresser with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: heard] [ARG1: the dresser] [ARGM-MNR: with my ears] .,I-ARGM-MNR
+220,I heard the knife with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'O']",[ARG0: I] [V: heard] [ARG1: the knife] [ARG2: with my ears] .,I-ARG2
+221,I heard the footstool with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the footstool with my ears] .,I-ARG1
+224,I heard the clothespin with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the clothespin with my ears] .,I-ARG1
+227,I heard the orange juice box with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the orange juice box with my ears] .,I-ARG1
+228,I heard the standing lamp with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the standing lamp with my ears] .,I-ARG1
+230,I heard the milk jug with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the milk jug with my ears] .,I-ARG1
+231,I heard the rolling office chair with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the rolling office chair with my ears] .,I-ARG1
+232,I heard the hammer with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the hammer with my ears] .,I-ARG1
+235,I heard the kitchen table with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the kitchen table with my ears] .,I-ARG1
+237,I heard the telephone with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the telephone with my ears] .,I-ARG1
+238,I heard the stapler with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the stapler with my ears] .,I-ARG1
+239,I heard the toilet with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: heard] [ARG1: the toilet] [ARGM-MNR: with my ears] .,I-ARGM-MNR
+240,I heard the umbrella with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the umbrella with my ears] .,I-ARG1
+241,I heard the tape dispenser with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the tape dispenser with my ears] .,I-ARG1
+248,I heard the book with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the book with my ears] .,I-ARG1
+250,I heard the sofa with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: heard] [ARG1: the sofa] [ARGM-MNR: with my ears] .,I-ARGM-MNR
+260,I heard the coffeepot with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the coffeepot with my ears] .,I-ARG1
+275,I heard the refrigerator with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: heard] [ARG1: the refrigerator] [ARGM-MNR: with my ears] .,I-ARGM-MNR
+288,I heard the power outlet with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the power outlet with my ears] .,I-ARG1
+289,I heard the teacup with my ears.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: heard] [ARG1: the teacup with my ears] .,I-ARG1
+300,I tasted the baby bottle with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the baby bottle with my tongue] .,I-ARG1
+301,I tasted the standing lamp with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the standing lamp with my tongue] .,I-ARG1
+302,I tasted the refrigerator with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the refrigerator with my tongue] .,I-ARG1
+303,I tasted the wooden chair with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the wooden chair with my tongue] .,I-ARG1
+304,I tasted the orange juice box with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the orange juice box with my tongue] .,I-ARG1
+305,I tasted the plush chair with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the plush chair with my tongue] .,I-ARG1
+306,I tasted the toilet with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: tasted] [ARG1: the toilet] [ARGM-MNR: with my tongue] .,I-ARGM-MNR
+307,I tasted the ornate mirror with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the ornate mirror with my tongue] .,I-ARG1
+308,I tasted the telephone with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the telephone with my tongue] .,I-ARG1
+310,I tasted the desk lamp with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: tasted] [ARG1: the desk lamp] [ARGM-MNR: with my tongue] .,I-ARGM-MNR
+312,I tasted the knife with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'O']",[ARG0: I] [V: tasted] [ARG1: the knife] [ARG2: with my tongue] .,I-ARG2
+313,I tasted the power outlet with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the power outlet with my tongue] .,I-ARG1
+314,I tasted the toothpaste with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the toothpaste with my tongue] .,I-ARG1
+315,I tasted the iron with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the iron with my tongue] .,I-ARG1
+316,I tasted the briefcase with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'O']",[ARG0: I] [V: tasted] [ARG1: the briefcase] [ARG2: with my tongue] .,I-ARG2
+317,I tasted the book with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the book with my tongue] .,I-ARG1
+319,I tasted the toothbrush with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the toothbrush with my tongue] .,I-ARG1
+321,I tasted the teapot with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the teapot with my tongue] .,I-ARG1
+322,I tasted the milk jug with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the milk jug with my tongue] .,I-ARG1
+324,I tasted the tape dispenser with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the tape dispenser with my tongue] .,I-ARG1
+326,I tasted the dresser with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the dresser with my tongue] .,I-ARG1
+328,I tasted the stapler with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the stapler with my tongue] .,I-ARG1
+335,I tasted the rolling office chair with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the rolling office chair with my tongue] .,I-ARG1
+337,I tasted the bathtub with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'O']",[ARG0: I] [V: tasted] [ARG1: the bathtub] [ARG2: with my tongue] .,I-ARG2
+338,I tasted the bathroom sink with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the bathroom sink with my tongue] .,I-ARG1
+339,I tasted the umbrella with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the umbrella with my tongue] .,I-ARG1
+340,I tasted the stove with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the stove with my tongue] .,I-ARG1
+345,I tasted the footstool with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the footstool with my tongue] .,I-ARG1
+354,I tasted the clothespin with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the clothespin with my tongue] .,I-ARG1
+362,I tasted the coffeepot with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the coffeepot with my tongue] .,I-ARG1
+364,I tasted the pliers with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the pliers with my tongue] .,I-ARG1
+365,I tasted the soap dispenser with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the soap dispenser with my tongue] .,I-ARG1
+367,I tasted the shoe with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: tasted] [ARG1: the shoe] [ARGM-MNR: with my tongue] .,I-ARGM-MNR
+373,I tasted the fork with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: I] [V: tasted] [ARG1: the fork] [ARGM-MNR: with my tongue] .,I-ARGM-MNR
+375,I tasted the spoon with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the spoon with my tongue] .,I-ARG1
+391,I tasted the coffee table with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the coffee table with my tongue] .,I-ARG1
+393,I tasted the sofa with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'O']",[ARG0: I] [V: tasted] [ARG1: the sofa] [ARG2: with my tongue] .,I-ARG2
+394,I tasted the teacup with my tongue.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: I] [V: tasted] [ARG1: the teacup with my tongue] .,I-ARG1

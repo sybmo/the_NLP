@@ -1,0 +1,101 @@
+,0,pp_tag,pp_descr,1
+0,Samuel walks in Virginia Beach.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Samuel] [V: walks] [ARG1: in Virginia Beach] .,I-ARG1
+1,Bill walks in Houston.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Bill] [V: walks] [ARGM-LOC: in Houston] .,I-ARGM-LOC
+2,Daniel walks in Anchorage.,"['B-ARG0', 'B-V', 'O', 'B-ARG1', 'O']",[ARG0: Daniel] [V: walks] in [ARG1: Anchorage] .,B-ARG1
+3,Martin walks in St. Petersburg.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Martin] [V: walks] [ARGM-LOC: in St. Petersburg] .,I-ARGM-LOC
+4,Ken walks in Baton Rouge.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Ken] [V: walks] [ARG1: in Baton Rouge] .,I-ARG1
+5,Alexander walks in Jersey City.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Alexander] [V: walks] [ARG1: in Jersey City] .,I-ARG1
+6,Peter walks in Hialeah.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Peter] [V: walks] [ARGM-LOC: in Hialeah] .,I-ARGM-LOC
+7,Francis walks in Atlanta.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Francis] [V: walks] [ARGM-LOC: in Atlanta] .,I-ARGM-LOC
+8,John walks in New Orleans.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: John] [V: walks] [ARGM-LOC: in New Orleans] .,I-ARGM-LOC
+9,Donald walks in Durham.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Donald] [V: walks] [ARG1: in Durham] .,I-ARG1
+10,Carl walks in Toledo.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Carl] [V: walks] [ARGM-LOC: in Toledo] .,I-ARGM-LOC
+11,Ken walks in Oklahoma City.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Ken] [V: walks] [ARG1: in Oklahoma City] .,I-ARG1
+12,Harold walks in Tulsa.,"['B-ARG0', 'B-V', 'B-ARGM-DIR', 'I-ARGM-DIR', 'O']",[ARG0: Harold] [V: walks] [ARGM-DIR: in Tulsa] .,I-ARGM-DIR
+13,John walks in Memphis.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: John] [V: walks] [ARGM-LOC: in Memphis] .,I-ARGM-LOC
+14,Tim walks in Duval County.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Tim] [V: walks] [ARGM-LOC: in Duval County] .,I-ARGM-LOC
+15,Martin walks in Glendale.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Martin] [V: walks] [ARGM-LOC: in Glendale] .,I-ARGM-LOC
+16,"Louis walks in Washington, D.C..","['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']","[ARG0: Louis] [V: walks] [ARGM-LOC: in Washington , D.C] ..",I-ARGM-LOC
+17,Roger walks in Plano.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Roger] [V: walks] [ARGM-LOC: in Plano] .,I-ARGM-LOC
+18,Dennis walks in Seattle.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Dennis] [V: walks] [ARGM-LOC: in Seattle] .,I-ARGM-LOC
+19,"Alfred walks in Washington, D.C..","['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']","[ARG0: Alfred] [V: walks] [ARGM-LOC: in Washington , D.C] ..",I-ARGM-LOC
+20,Matt walks in Garland.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Matt] [V: walks] [ARGM-LOC: in Garland] .,I-ARGM-LOC
+21,Arthur walks in Virginia Beach.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Arthur] [V: walks] [ARG1: in Virginia Beach] .,I-ARG1
+22,Eugene walks in Tulsa.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Eugene] [V: walks] [ARGM-MNR: in Tulsa] .,I-ARGM-MNR
+23,Arthur walks in New York City.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Arthur] [V: walks] [ARG1: in New York City] .,I-ARG1
+24,Jerry walks in Lexington.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jerry] [V: walks] [ARGM-LOC: in Lexington] .,I-ARGM-LOC
+25,Daniel walks in Wichita.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Daniel] [V: walks] [ARGM-LOC: in Wichita] .,I-ARGM-LOC
+26,Joe walks in Bakersfield.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Joe] [V: walks] [ARGM-LOC: in Bakersfield] .,I-ARGM-LOC
+27,Steve walks in Honolulu County.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Steve] [V: walks] [ARGM-MNR: in Honolulu County] .,I-ARGM-MNR
+28,Jerry walks in New Orleans.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Jerry] [V: walks] [ARG1: in New Orleans] .,I-ARG1
+29,Jason walks in Cleveland.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jason] [V: walks] [ARGM-LOC: in Cleveland] .,I-ARGM-LOC
+30,Steve walks in Laredo.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Steve] [V: walks] [ARG1: in Laredo] .,I-ARG1
+31,Adam walks in Honolulu County.,"['B-ARG0', 'B-V', 'B-ARGM-DIR', 'I-ARGM-DIR', 'I-ARGM-DIR', 'O']",[ARG0: Adam] [V: walks] [ARGM-DIR: in Honolulu County] .,I-ARGM-DIR
+32,Walter walks in Indianapolis.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Walter] [V: walks] [ARGM-LOC: in Indianapolis] .,I-ARGM-LOC
+33,Edward walks in Anaheim.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Edward] [V: walks] [ARGM-LOC: in Anaheim] .,I-ARGM-LOC
+34,Paul walks in Sacramento.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Paul] [V: walks] [ARGM-LOC: in Sacramento] .,I-ARGM-LOC
+35,Frederick walks in Baltimore.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Frederick] [V: walks] [ARGM-LOC: in Baltimore] .,I-ARGM-LOC
+36,Joseph walks in North Las Vegas.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Joseph] [V: walks] [ARGM-LOC: in North Las Vegas] .,I-ARGM-LOC
+37,Jimmy walks in Stockton.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jimmy] [V: walks] [ARGM-LOC: in Stockton] .,I-ARGM-LOC
+38,Edward walks in Orlando.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Edward] [V: walks] [ARGM-MNR: in Orlando] .,I-ARGM-MNR
+39,Alan walks in Raleigh.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Alan] [V: walks] [ARG1: in Raleigh] .,I-ARG1
+40,Albert walks in San Francisco.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Albert] [V: walks] [ARGM-LOC: in San Francisco] .,I-ARGM-LOC
+41,Brian walks in Philadelphia.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Brian] [V: walks] [ARG1: in Philadelphia] .,I-ARG1
+42,Rick walks in Garland.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Rick] [V: walks] [ARGM-LOC: in Garland] .,I-ARGM-LOC
+43,Eric walks in Henderson.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Eric] [V: walks] [ARGM-LOC: in Henderson] .,I-ARGM-LOC
+44,Charlie walks in Scottsdale.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Charlie] [V: walks] [ARGM-LOC: in Scottsdale] .,I-ARGM-LOC
+45,Edward walks in Raleigh.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Edward] [V: walks] [ARGM-LOC: in Raleigh] .,I-ARGM-LOC
+46,Mark walks in Laredo.,"['B-ARG0', 'B-V', 'B-ARGM-DIR', 'I-ARGM-DIR', 'O']",[ARG0: Mark] [V: walks] [ARGM-DIR: in Laredo] .,I-ARGM-DIR
+47,Peter walks in Sacramento.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Peter] [V: walks] [ARGM-LOC: in Sacramento] .,I-ARGM-LOC
+48,Carl walks in Duval County.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Carl] [V: walks] [ARGM-LOC: in Duval County] .,I-ARGM-LOC
+49,Aaron walks in Lexington-Fayette.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Aaron] [V: walks] [ARG1: in Lexington - Fayette] .,I-ARG1
+50,Jack walks in Madison.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jack] [V: walks] [ARGM-LOC: in Madison] .,I-ARGM-LOC
+51,Dennis walks in Boston.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Dennis] [V: walks] [ARGM-LOC: in Boston] .,I-ARGM-LOC
+52,Sam walks in St. Petersburg.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Sam] [V: walks] [ARGM-LOC: in St. Petersburg] .,I-ARGM-LOC
+53,Richard walks in Oakland.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Richard] [V: walks] [ARGM-LOC: in Oakland] .,I-ARGM-LOC
+54,William walks in Duval County.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: William] [V: walks] [ARGM-LOC: in Duval County] .,I-ARGM-LOC
+55,Sam walks in Wichita.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Sam] [V: walks] [ARGM-LOC: in Wichita] .,I-ARGM-LOC
+56,Bruce walks in Tucson.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Bruce] [V: walks] [ARG1: in Tucson] .,I-ARG1
+57,Nick walks in Stockton.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Nick] [V: walks] [ARGM-LOC: in Stockton] .,I-ARGM-LOC
+58,Bobby walks in Glendale.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Bobby] [V: walks] [ARGM-LOC: in Glendale] .,I-ARGM-LOC
+59,Harry walks in Los Angeles.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Harry] [V: walks] [ARG1: in Los Angeles] .,I-ARG1
+60,Jeff walks in San Diego.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jeff] [V: walks] [ARGM-LOC: in San Diego] .,I-ARGM-LOC
+61,Bob walks in Albuquerque.,"['B-ARG0', 'B-V', 'B-ARG1', 'B-ARG1', 'O']",[ARG0: Bob] [V: walks] [ARG1: in] [ARG1: Albuquerque] .,B-ARG1
+62,Billy walks in Stockton.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Billy] [V: walks] [ARGM-LOC: in Stockton] .,I-ARGM-LOC
+63,Scott walks in Hialeah.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Scott] [V: walks] [ARGM-LOC: in Hialeah] .,I-ARGM-LOC
+64,Aaron walks in Reno.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Aaron] [V: walks] [ARGM-LOC: in Reno] .,I-ARGM-LOC
+65,Matthew walks in Baton Rouge.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Matthew] [V: walks] [ARG1: in Baton Rouge] .,I-ARG1
+66,Charlie walks in Seattle.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Charlie] [V: walks] [ARGM-LOC: in Seattle] .,I-ARGM-LOC
+67,Gary walks in Corpus Christi.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Gary] [V: walks] [ARGM-LOC: in Corpus Christi] .,I-ARGM-LOC
+68,Robert walks in Hialeah.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Robert] [V: walks] [ARGM-LOC: in Hialeah] .,I-ARGM-LOC
+69,Mike walks in Corpus Christi.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Mike] [V: walks] [ARGM-LOC: in Corpus Christi] .,I-ARGM-LOC
+70,Adam walks in Reno.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Adam] [V: walks] [ARGM-LOC: in Reno] .,I-ARGM-LOC
+71,Lawrence walks in Portland.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Lawrence] [V: walks] [ARGM-LOC: in Portland] .,I-ARGM-LOC
+72,Aaron walks in Tulsa.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Aaron] [V: walks] [ARG1: in Tulsa] .,I-ARG1
+73,Charles walks in San Juan.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Charles] [V: walks] [ARGM-LOC: in San Juan] .,I-ARGM-LOC
+74,Gary walks in Fresno.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Gary] [V: walks] [ARG1: in Fresno] .,I-ARG1
+75,Billy walks in Chicago.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Billy] [V: walks] [ARG1: in Chicago] .,I-ARG1
+76,Jeff walks in New York City.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Jeff] [V: walks] [ARG1: in New York City] .,I-ARG1
+77,Chris walks in Columbus.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Chris] [V: walks] [ARGM-LOC: in Columbus] .,I-ARGM-LOC
+78,Tony walks in Colorado Springs.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Tony] [V: walks] [ARG1: in Colorado Springs] .,I-ARG1
+79,Albert walks in Lincoln.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Albert] [V: walks] [ARG1: in Lincoln] .,I-ARG1
+80,Nick walks in Jacksonville.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Nick] [V: walks] [ARG1: in Jacksonville] .,I-ARG1
+81,Edwin walks in Fort Wayne.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Edwin] [V: walks] [ARGM-LOC: in Fort Wayne] .,I-ARGM-LOC
+82,Matt walks in Reno.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Matt] [V: walks] [ARGM-LOC: in Reno] .,I-ARGM-LOC
+83,Jerry walks in Lincoln.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jerry] [V: walks] [ARGM-LOC: in Lincoln] .,I-ARGM-LOC
+84,Alan walks in Chula Vista.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Alan] [V: walks] [ARG1: in Chula Vista] .,I-ARG1
+85,Edwin walks in Saint Paul.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Edwin] [V: walks] [ARGM-LOC: in Saint Paul] .,I-ARGM-LOC
+86,Steve walks in St. Louis.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Steve] [V: walks] [ARGM-LOC: in St. Louis] .,I-ARGM-LOC
+87,Rick walks in Corpus Christi.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Rick] [V: walks] [ARG1: in Corpus Christi] .,I-ARG1
+88,Kenneth walks in Phoenix.,"['B-ARG0', 'B-V', 'B-ARGM-DIR', 'I-ARGM-DIR', 'O']",[ARG0: Kenneth] [V: walks] [ARGM-DIR: in Phoenix] .,I-ARGM-DIR
+89,Steven walks in Portland.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Steven] [V: walks] [ARGM-LOC: in Portland] .,I-ARGM-LOC
+90,Jimmy walks in Newark.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Jimmy] [V: walks] [ARG1: in Newark] .,I-ARG1
+91,Fred walks in Detroit.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Fred] [V: walks] [ARGM-LOC: in Detroit] .,I-ARGM-LOC
+92,Eugene walks in El Paso.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Eugene] [V: walks] [ARGM-LOC: in El Paso] .,I-ARGM-LOC
+93,Tony walks in Greensboro.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']",[ARG0: Tony] [V: walks] [ARG1: in Greensboro] .,I-ARG1
+94,Greg walks in Virginia Beach.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Greg] [V: walks] [ARG1: in Virginia Beach] .,I-ARG1
+95,Jeff walks in Long Beach.,"['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'I-ARG1', 'O']",[ARG0: Jeff] [V: walks] [ARG1: in Long Beach] .,I-ARG1
+96,Aaron walks in Bakersfield.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Aaron] [V: walks] [ARGM-LOC: in Bakersfield] .,I-ARGM-LOC
+97,Fred walks in Mesa.,Fred walks in Mesa.,Fred walks in Mesa.,a
+98,Edward walks in Reno.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Edward] [V: walks] [ARGM-LOC: in Reno] .,I-ARGM-LOC
+99,Don walks in Toledo.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Don] [V: walks] [ARGM-LOC: in Toledo] .,I-ARGM-LOC

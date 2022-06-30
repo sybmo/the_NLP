@@ -1,0 +1,101 @@
+,0,pp_tag,pp_descr,1
+0,しんいち walks in Amagasaki.,"['B-V', 'O', 'O', 'O', 'O']",[V: しんいち] walks in Amagasaki .,O
+1,としお walks in Mito.,としお walks in Mito.,としお walks in Mito.,o
+2,たかゆき walks in Hamamatsu.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: たかゆき] [V: walks] [ARGM-LOC: in Hamamatsu] .,I-ARGM-LOC
+3,たかひろ walks in Takamatsu.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: たかひろ] [V: walks] [ARGM-LOC: in Takamatsu] .,I-ARGM-LOC
+4,だいすけ walks in Yokkaichi.,"['B-V', 'O', 'O', 'O', 'O']",[V: だいすけ] walks in Yokkaichi .,O
+5,あつし walks in Kōbe.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: あつし] [V: walks] [ARGM-MNR: in Kōbe] .,I-ARGM-MNR
+6,みつお walks in Nishinomiya.,みつお walks in Nishinomiya.,みつお walks in Nishinomiya.,a
+7,まこと walks in Yokohama.,まこと walks in Yokohama.,まこと walks in Yokohama.,a
+8,たけし walks in Kōbe.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: たけし] [V: walks] [ARGM-MNR: in Kōbe] .,I-ARGM-MNR
+9,よしたか walks in Utsunomiya.,よしたか walks in Utsunomiya.,よしたか walks in Utsunomiya.,a
+10,けい walks in Okayama.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: けい] [V: walks] [ARGM-LOC: in Okayama] .,I-ARGM-LOC
+11,あきら walks in Niigata.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: あきら] [V: walks] [ARGM-LOC: in Niigata] .,I-ARGM-LOC
+12,まさひこ walks in Ōsaka.,まさひこ walks in Ōsaka.,まさひこ walks in Ōsaka.,a
+13,ひでき walks in Matsuyama.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ひでき] [V: walks] [ARGM-LOC: in Matsuyama] .,I-ARGM-LOC
+14,一郎 walks in Fujisawa.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: 一郎] [V: walks] [ARGM-LOC: in Fujisawa] .,I-ARGM-LOC
+15,つよし walks in Suita.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: つよし] [V: walks] [ARGM-MNR: in Suita] .,I-ARGM-MNR
+16,まさし walks in Kashiwa.,まさし walks in Kashiwa.,まさし walks in Kashiwa.,a
+17,まさひろ walks in Naha.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: まさひろ] [V: walks] [ARGM-LOC: in Naha] .,I-ARGM-LOC
+18,たけお walks in Yokkaichi.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: たけお] [V: walks] [ARGM-LOC: in Yokkaichi] .,I-ARGM-LOC
+19,Shinya walks in Matsudo.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Shinya] [V: walks] [ARGM-LOC: in Matsudo] .,I-ARGM-LOC
+20,ゆきお walks in Asahikawa.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ゆきお] [V: walks] [ARGM-LOC: in Asahikawa] .,I-ARGM-LOC
+21,ゆきお walks in Okayama.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ゆきお] [V: walks] [ARGM-LOC: in Okayama] .,I-ARGM-LOC
+22,まさよし walks in Kyoto.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: まさよし] [V: walks] [ARGM-LOC: in Kyoto] .,I-ARGM-LOC
+23,かずお walks in Matsumoto.,かずお walks in Matsumoto.,かずお walks in Matsumoto.,o
+24,あきお walks in Tsu.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: あきお] [V: walks] [ARGM-LOC: in Tsu] .,I-ARGM-LOC
+25,えいじ walks in Fuchū.,"['B-V', 'O', 'O', 'O', 'O']",[V: えいじ] walks in Fuchū .,O
+26,たつや walks in Ichikawa.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: たつや] [V: walks] [ARGM-LOC: in Ichikawa] .,I-ARGM-LOC
+27,たけお walks in Higashiōsaka.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: たけお] [V: walks] [ARGM-MNR: in Higashiōsaka] .,I-ARGM-MNR
+28,ひろし walks in Kōriyama.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: ひろし] [V: walks] [ARGM-MNR: in Kōriyama] .,I-ARGM-MNR
+29,まさお walks in Kurume.,"['B-V', 'O', 'O', 'O', 'O']",[V: まさお] walks in Kurume .,O
+30,まさる walks in Hakodate.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: まさる] [V: walks] [ARGM-LOC: in Hakodate] .,I-ARGM-LOC
+31,Shinya walks in Nagoya.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Shinya] [V: walks] [ARGM-LOC: in Nagoya] .,I-ARGM-LOC
+32,ひろし walks in Tsu.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ひろし] [V: walks] [ARGM-LOC: in Tsu] .,I-ARGM-LOC
+33,のぶお walks in Ōsaka.,のぶお walks in Ōsaka.,のぶお walks in Ōsaka.,a
+34,ひさし walks in Ichikawa.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ひさし] [V: walks] [ARGM-LOC: in Ichikawa] .,I-ARGM-LOC
+35,みのる walks in Kōriyama.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: みのる] [V: walks] [ARGM-MNR: in Kōriyama] .,I-ARGM-MNR
+36,つとむ walks in Kagoshima.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: つとむ] [V: walks] [ARGM-LOC: in Kagoshima] .,I-ARGM-LOC
+37,こういち walks in Tsukuba.,"['B-V', 'O', 'O', 'O', 'O']",[V: こういち] walks in Tsukuba .,O
+38,よしあき walks in Tokushima.,よしあき walks in Tokushima.,よしあき walks in Tokushima.,a
+39,おさむ walks in Fukuyama.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: おさむ] [V: walks] [ARGM-LOC: in Fukuyama] .,I-ARGM-LOC
+40,たつや walks in Sapporo.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: たつや] [V: walks] [ARGM-LOC: in Sapporo] .,I-ARGM-LOC
+41,ひろし walks in Yokkaichi.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ひろし] [V: walks] [ARGM-LOC: in Yokkaichi] .,I-ARGM-LOC
+42,あきら walks in Himeji.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: あきら] [V: walks] [ARGM-LOC: in Himeji] .,I-ARGM-LOC
+43,だいすけ walks in Chiba.,"['B-V', 'O', 'O', 'O', 'O']",[V: だいすけ] walks in Chiba .,O
+44,たかし walks in Akashi.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: たかし] [V: walks] [ARGM-LOC: in Akashi] .,I-ARGM-LOC
+45,あきお walks in Chiba.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: あきお] [V: walks] [ARGM-LOC: in Chiba] .,I-ARGM-LOC
+46,みつお walks in Kitakyūshū.,みつお walks in Kitakyūshū.,みつお walks in Kitakyūshū.,ū
+47,かずひこ walks in Akashi.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: かずひこ] [V: walks] [ARGM-LOC: in Akashi] .,I-ARGM-LOC
+48,まさよし walks in Hirakata.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: まさよし] [V: walks] [ARGM-LOC: in Hirakata] .,I-ARGM-LOC
+49,あつし walks in Wakayama.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: あつし] [V: walks] [ARGM-LOC: in Wakayama] .,I-ARGM-LOC
+50,まさのり walks in Nagano.,まさのり walks in Nagano.,まさのり walks in Nagano.,o
+51,たつお walks in Fukushima.,たつお walks in Fukushima.,たつお walks in Fukushima.,a
+52,かずひろ walks in Koshigaya.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: かずひろ] [V: walks] [ARGM-LOC: in Koshigaya] .,I-ARGM-LOC
+53,みのる walks in Maebashi.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: みのる] [V: walks] [ARGM-LOC: in Maebashi] .,I-ARGM-LOC
+54,みのる walks in Matsumoto.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: みのる] [V: walks] [ARGM-LOC: in Matsumoto] .,I-ARGM-LOC
+55,あきら walks in Fukui.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: あきら] [V: walks] [ARGM-LOC: in Fukui] .,I-ARGM-LOC
+56,あきら walks in Machida.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: あきら] [V: walks] [ARGM-MNR: in Machida] .,I-ARGM-MNR
+57,たかひろ walks in Kagoshima.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: たかひろ] [V: walks] [ARGM-LOC: in Kagoshima] .,I-ARGM-LOC
+58,Shinya walks in Maebashi.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Shinya] [V: walks] [ARGM-LOC: in Maebashi] .,I-ARGM-LOC
+59,こうじ walks in Kitakyūshū.,こうじ walks in Kitakyūshū.,こうじ walks in Kitakyūshū.,ū
+60,よしひろ walks in Toyota.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: よしひろ] [V: walks] [ARGM-LOC: in Toyota] .,I-ARGM-LOC
+61,しげお walks in Wakayama.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: しげお] [V: walks] [ARGM-LOC: in Wakayama] .,I-ARGM-LOC
+62,まさる walks in Kitakyūshū.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: まさる] [V: walks] [ARGM-MNR: in Kitakyūshū] .,I-ARGM-MNR
+63,あきお walks in Wakayama.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: あきお] [V: walks] [ARGM-LOC: in Wakayama] .,I-ARGM-LOC
+64,すすむ walks in Higashiōsaka.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: すすむ] [V: walks] [ARGM-MNR: in Higashiōsaka] .,I-ARGM-MNR
+65,しげる walks in Fukui.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: しげる] [V: walks] [ARGM-LOC: in Fukui] .,I-ARGM-LOC
+66,とおる walks in Nagoya.,とおる walks in Nagoya.,とおる walks in Nagoya.,a
+67,たけお walks in Sasebo.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: たけお] [V: walks] [ARGM-LOC: in Sasebo] .,I-ARGM-LOC
+68,かずや walks in Koshigaya.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: かずや] [V: walks] [ARGM-LOC: in Koshigaya] .,I-ARGM-LOC
+69,てつや walks in Takamatsu.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: てつや] [V: walks] [ARGM-LOC: in Takamatsu] .,I-ARGM-LOC
+70,ケン walks in Akita.,ケン walks in Akita.,ケン walks in Akita.,a
+71,あきら walks in Yokohama.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: あきら] [V: walks] [ARGM-LOC: in Yokohama] .,I-ARGM-LOC
+72,まこと walks in Sapporo.,まこと walks in Sapporo.,まこと walks in Sapporo.,o
+73,太郎 walks in Naha.,太郎 walks in Naha.,太郎 walks in Naha.,a
+74,ひろき walks in Tokorozawa.,ひろき walks in Tokorozawa.,ひろき walks in Tokorozawa.,a
+75,ひさし walks in Nagaoka.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ひさし] [V: walks] [ARGM-LOC: in Nagaoka] .,I-ARGM-LOC
+76,なおき walks in Ichihara.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: なおき] [V: walks] [ARGM-LOC: in Ichihara] .,I-ARGM-LOC
+77,たかゆき walks in Hirakata.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: たかゆき] [V: walks] [ARGM-LOC: in Hirakata] .,I-ARGM-LOC
+78,のぶお walks in Fukushima.,のぶお walks in Fukushima.,のぶお walks in Fukushima.,a
+79,たけお walks in Kashiwa.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: たけお] [V: walks] [ARGM-LOC: in Kashiwa] .,I-ARGM-LOC
+80,よういち walks in Kashiwa.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: よういち] [V: walks] [ARGM-LOC: in Kashiwa] .,I-ARGM-LOC
+81,のぼる walks in Iwaki.,のぼる walks in Iwaki.,のぼる walks in Iwaki.,i
+82,おさむ walks in Kurashiki.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: おさむ] [V: walks] [ARGM-LOC: in Kurashiki] .,I-ARGM-LOC
+83,けいじ walks in Kōchi.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: けいじ] [V: walks] [ARGM-MNR: in Kōchi] .,I-ARGM-MNR
+84,たけお walks in Tokushima.,たけお walks in Tokushima.,たけお walks in Tokushima.,a
+85,まさし walks in Kurashiki.,まさし walks in Kurashiki.,まさし walks in Kurashiki.,i
+86,はじめ walks in Toyonaka.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: はじめ] [V: walks] [ARGM-LOC: in Toyonaka] .,I-ARGM-LOC
+87,まさる walks in Yao.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: まさる] [V: walks] [ARGM-MNR: in Yao] .,I-ARGM-MNR
+88,ただし walks in Hiroshima.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ただし] [V: walks] [ARGM-LOC: in Hiroshima] .,I-ARGM-LOC
+89,ひでき walks in Matsumoto.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ひでき] [V: walks] [ARGM-LOC: in Matsumoto] .,I-ARGM-LOC
+90,ゆたか walks in Saitama.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ゆたか] [V: walks] [ARGM-LOC: in Saitama] .,I-ARGM-LOC
+91,ただし walks in Kumamoto.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: ただし] [V: walks] [ARGM-LOC: in Kumamoto] .,I-ARGM-LOC
+92,しんじ walks in Naha.,しんじ walks in Naha.,しんじ walks in Naha.,a
+93,りょう walks in Fuji.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: りょう] [V: walks] [ARGM-LOC: in Fuji] .,I-ARGM-LOC
+94,まさひこ walks in Ōtsu.,まさひこ walks in Ōtsu.,まさひこ walks in Ōtsu.,u
+95,一郎 walks in Kanazawa.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: 一郎] [V: walks] [ARGM-LOC: in Kanazawa] .,I-ARGM-LOC
+96,よういち walks in Hiroshima.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: よういち] [V: walks] [ARGM-LOC: in Hiroshima] .,I-ARGM-LOC
+97,よういち walks in Mito.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: よういち] [V: walks] [ARGM-LOC: in Mito] .,I-ARGM-LOC
+98,まさのり walks in Kawasaki.,まさのり walks in Kawasaki.,まさのり walks in Kawasaki.,i
+99,かずや walks in Saitama.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: かずや] [V: walks] [ARGM-LOC: in Saitama] .,I-ARGM-LOC

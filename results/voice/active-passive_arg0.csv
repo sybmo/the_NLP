@@ -1,0 +1,2 @@
+,0,active,tags_act,descr_act,tags_pass,descr_pass,first_tag_act,final_min_one_pass,arg0_match
+0,Colin is shot by Michael.,Michael shoots Colin.,"['B-ARG0', 'B-V', 'B-ARG1', 'O']",[ARG0: Michael] [V: shoots] [ARG1: Colin] .,"['B-ARG1', 'O', 'B-V', 'B-ARG0', 'I-ARG0', 'O']",[ARG1: Colin] is [V: shot] [ARG0: by Michael] .,ARG0,ARG0,True

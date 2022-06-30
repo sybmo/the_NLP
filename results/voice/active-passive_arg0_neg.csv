@@ -1,0 +1,2 @@
+,0,active,tags_act,descr_act,tags_pass,descr_pass,first_tag_act,final_min_one_pass,arg0_match
+0,Nancy is not shot by Jennifer.,Jennifer does not shoot Nancy.,"['B-ARG0', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG1', 'O']",[ARG0: Jennifer] does [ARGM-NEG: not] [V: shoot] [ARG1: Nancy] .,"['B-ARG1', 'O', 'B-ARGM-NEG', 'B-V', 'B-ARG0', 'I-ARG0', 'O']",[ARG1: Nancy] is [ARGM-NEG: not] [V: shot] [ARG0: by Jennifer] .,ARG0,ARG0,True

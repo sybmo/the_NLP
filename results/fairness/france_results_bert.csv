@@ -1,0 +1,101 @@
+,0,pp_tag,pp_descr,1
+0,Pierre walks in Poitiers.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Pierre] [V: walks] [ARGM-LOC: in Poitiers] .,I-ARGM-LOC
+1,Jean-Marie walks in Tourcoing.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - Marie] [V: walks] [ARGM-LOC: in Tourcoing] .,I-ARGM-LOC
+2,Jean walks in Saint-Pierre.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean] [V: walks] [ARGM-LOC: in Saint - Pierre] .,I-ARGM-LOC
+3,André walks in Asnières-sur-Seine.,André walks in Asnières-sur-Seine.,André walks in Asnières-sur-Seine.,e
+4,Marcel walks in Champigny-sur-Marne.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Marcel] [V: walks] [ARGM-LOC: in Champigny - sur - Marne] .,I-ARGM-LOC
+5,Eric walks in Paris.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Eric] [V: walks] [ARGM-LOC: in Paris] .,I-ARGM-LOC
+6,Jacques walks in Aulnay-sous-Bois.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jacques] [V: walks] [ARGM-LOC: in Aulnay - sous - Bois] .,I-ARGM-LOC
+7,Eric walks in Aubervilliers.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Eric] [V: walks] [ARGM-LOC: in Aubervilliers] .,I-ARGM-LOC
+8,Robert walks in Aubervilliers.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Robert] [V: walks] [ARGM-LOC: in Aubervilliers] .,I-ARGM-LOC
+9,Michel walks in Le Tampon.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Michel] [V: walks] [ARGM-LOC: in Le Tampon] .,I-ARGM-LOC
+10,Emmanuel walks in Le Tampon.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Emmanuel] [V: walks] [ARGM-LOC: in Le Tampon] .,I-ARGM-LOC
+11,Maurice walks in Paris.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Maurice] [V: walks] [ARGM-LOC: in Paris] .,I-ARGM-LOC
+12,Jean-Claude walks in Le Tampon.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - Claude] [V: walks] [ARGM-LOC: in Le Tampon] .,I-ARGM-LOC
+13,Auguste walks in Dunkirk.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Auguste] [V: walks] [ARGM-LOC: in Dunkirk] .,I-ARGM-LOC
+14,Benoît walks in Colombes.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Benoît] [V: walks] [ARGM-LOC: in Colombes] .,I-ARGM-LOC
+15,Edmond walks in Cholet.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Edmond] [V: walks] [ARGM-MNR: in Cholet] .,I-ARGM-MNR
+16,Emmanuel walks in Paris.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Emmanuel] [V: walks] [ARGM-LOC: in Paris] .,I-ARGM-LOC
+17,Victor walks in Aubervilliers.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Victor] [V: walks] [ARGM-LOC: in Aubervilliers] .,I-ARGM-LOC
+18,Jean-François walks in Calais.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - François] [V: walks] [ARGM-LOC: in Calais] .,I-ARGM-LOC
+19,Jean-Pierre walks in Pau.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - Pierre] [V: walks] [ARGM-LOC: in Pau] .,I-ARGM-LOC
+20,Nicolas walks in Saint-Pierre.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Nicolas] [V: walks] [ARGM-LOC: in Saint - Pierre] .,I-ARGM-LOC
+21,Jean-François walks in Tourcoing.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - François] [V: walks] [ARGM-LOC: in Tourcoing] .,I-ARGM-LOC
+22,Jean-François walks in Courbevoie.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - François] [V: walks] [ARGM-LOC: in Courbevoie] .,I-ARGM-LOC
+23,Léon walks in Angers.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Léon] [V: walks] [ARGM-MNR: in Angers] .,I-ARGM-MNR
+24,Albert walks in Aubervilliers.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Albert] [V: walks] [ARGM-LOC: in Aubervilliers] .,I-ARGM-LOC
+25,Eric walks in Cholet.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Eric] [V: walks] [ARGM-MNR: in Cholet] .,I-ARGM-MNR
+26,David walks in Fort-de-France.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: David] [V: walks] [ARGM-LOC: in Fort - de - France] .,I-ARGM-LOC
+27,Gérard walks in Poitiers.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Gérard] [V: walks] [ARGM-LOC: in Poitiers] .,I-ARGM-LOC
+28,Edmond walks in Béziers.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Edmond] [V: walks] [ARGM-MNR: in Béziers] .,I-ARGM-MNR
+29,Émile walks in Roubaix.,Émile walks in Roubaix.,Émile walks in Roubaix.,x
+30,Joseph walks in Pau.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Joseph] [V: walks] [ARGM-LOC: in Pau] .,I-ARGM-LOC
+31,Yves walks in Chambéry.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Yves] [V: walks] [ARGM-MNR: in Chambéry] .,I-ARGM-MNR
+32,Jean-Marie walks in Aubervilliers.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - Marie] [V: walks] [ARGM-LOC: in Aubervilliers] .,I-ARGM-LOC
+33,Alain walks in Aubervilliers.,Alain walks in Aubervilliers.,Alain walks in Aubervilliers.,s
+34,Alain walks in Paris.,Alain walks in Paris.,Alain walks in Paris.,s
+35,Antoine walks in Cannes.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Antoine] [V: walks] [ARGM-LOC: in Cannes] .,I-ARGM-LOC
+36,Paul walks in Avignon.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Paul] [V: walks] [ARGM-LOC: in Avignon] .,I-ARGM-LOC
+37,Roger walks in Avignon.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Roger] [V: walks] [ARGM-LOC: in Avignon] .,I-ARGM-LOC
+38,Éric walks in Marseille.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Éric] [V: walks] [ARGM-LOC: in Marseille] .,I-ARGM-LOC
+39,Bernard walks in Nanterre.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Bernard] [V: walks] [ARGM-LOC: in Nanterre] .,I-ARGM-LOC
+40,Claude walks in Pau.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Claude] [V: walks] [ARGM-LOC: in Pau] .,I-ARGM-LOC
+41,Marie walks in Asnières-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Marie] [V: walks] [ARGM-LOC: in Asnières - sur - Seine] .,I-ARGM-LOC
+42,Jean-Baptiste walks in Antibes.,Jean-Baptiste walks in Antibes.,Jean-Baptiste walks in Antibes.,s
+43,Jean-Marie walks in Saint-Pierre.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - Marie] [V: walks] [ARGM-LOC: in Saint - Pierre] .,I-ARGM-LOC
+44,Jérôme walks in La Rochelle.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jérôme] [V: walks] [ARGM-LOC: in La Rochelle] .,I-ARGM-LOC
+45,Joseph walks in Asnières-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Joseph] [V: walks] [ARGM-LOC: in Asnières - sur - Seine] .,I-ARGM-LOC
+46,Jules walks in Cannes.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jules] [V: walks] [ARGM-LOC: in Cannes] .,I-ARGM-LOC
+47,Sébastien walks in Aulnay-sous-Bois.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Sébastien] [V: walks] [ARGM-LOC: in Aulnay - sous - Bois] .,I-ARGM-LOC
+48,Gustave walks in Tourcoing.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Gustave] [V: walks] [ARGM-LOC: in Tourcoing] .,I-ARGM-LOC
+49,Raymond walks in Vitry-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Raymond] [V: walks] [ARGM-LOC: in Vitry - sur - Seine] .,I-ARGM-LOC
+50,Sébastien walks in Vitry-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Sébastien] [V: walks] [ARGM-LOC: in Vitry - sur - Seine] .,I-ARGM-LOC
+51,Thierry walks in Cannes.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Thierry] [V: walks] [ARGM-LOC: in Cannes] .,I-ARGM-LOC
+52,Thierry walks in Poitiers.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Thierry] [V: walks] [ARGM-LOC: in Poitiers] .,I-ARGM-LOC
+53,Vincent walks in Asnières-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Vincent] [V: walks] [ARGM-LOC: in Asnières - sur - Seine] .,I-ARGM-LOC
+54,Joseph walks in Courbevoie.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Joseph] [V: walks] [ARGM-LOC: in Courbevoie] .,I-ARGM-LOC
+55,Gaston walks in Paris.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Gaston] [V: walks] [ARGM-LOC: in Paris] .,I-ARGM-LOC
+56,Marie walks in Avignon.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Marie] [V: walks] [ARGM-LOC: in Avignon] .,I-ARGM-LOC
+57,Paul walks in Vitry-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Paul] [V: walks] [ARGM-LOC: in Vitry - sur - Seine] .,I-ARGM-LOC
+58,Alfred walks in Roubaix.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Alfred] [V: walks] [ARGM-LOC: in Roubaix] .,I-ARGM-LOC
+59,Christophe walks in Chambéry.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Christophe] [V: walks] [ARGM-MNR: in Chambéry] .,I-ARGM-MNR
+60,Stéphane walks in Béziers.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Stéphane] [V: walks] [ARGM-MNR: in Béziers] .,I-ARGM-MNR
+61,Joseph walks in Cannes.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Joseph] [V: walks] [ARGM-LOC: in Cannes] .,I-ARGM-LOC
+62,Jean-Louis walks in Rueil-Malmaison.,Jean-Louis walks in Rueil-Malmaison.,Jean-Louis walks in Rueil-Malmaison.,n
+63,Gabriel walks in Tourcoing.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Gabriel] [V: walks] [ARGM-LOC: in Tourcoing] .,I-ARGM-LOC
+64,Jérôme walks in Le Tampon.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jérôme] [V: walks] [ARGM-LOC: in Le Tampon] .,I-ARGM-LOC
+65,Charles walks in Angers.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Charles] [V: walks] [ARGM-MNR: in Angers] .,I-ARGM-MNR
+66,Antoine walks in Fort-de-France.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Antoine] [V: walks] [ARGM-LOC: in Fort - de - France] .,I-ARGM-LOC
+67,Gérard walks in Asnières-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Gérard] [V: walks] [ARGM-LOC: in Asnières - sur - Seine] .,I-ARGM-LOC
+68,Franck walks in Colombes.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Franck] [V: walks] [ARGM-LOC: in Colombes] .,I-ARGM-LOC
+69,Denis walks in Vitry-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Denis] [V: walks] [ARGM-LOC: in Vitry - sur - Seine] .,I-ARGM-LOC
+70,Gabriel walks in Rueil-Malmaison.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Gabriel] [V: walks] [ARGM-LOC: in Rueil - Malmaison] .,I-ARGM-LOC
+71,Lucien walks in Poitiers.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Lucien] [V: walks] [ARGM-MNR: in Poitiers] .,I-ARGM-MNR
+72,Jean-Pierre walks in Paris.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - Pierre] [V: walks] [ARGM-LOC: in Paris] .,I-ARGM-LOC
+73,Édouard walks in Cannes.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Édouard] [V: walks] [ARGM-LOC: in Cannes] .,I-ARGM-LOC
+74,Marie walks in Chambéry.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Marie] [V: walks] [ARGM-MNR: in Chambéry] .,I-ARGM-MNR
+75,Sébastien walks in Avignon.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Sébastien] [V: walks] [ARGM-LOC: in Avignon] .,I-ARGM-LOC
+76,Jean-Pierre walks in Avignon.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - Pierre] [V: walks] [ARGM-LOC: in Avignon] .,I-ARGM-LOC
+77,Marie walks in Pau.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Marie] [V: walks] [ARGM-LOC: in Pau] .,I-ARGM-LOC
+78,Marcel walks in Asnières-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Marcel] [V: walks] [ARGM-LOC: in Asnières - sur - Seine] .,I-ARGM-LOC
+79,Jean-Pierre walks in La Rochelle.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - Pierre] [V: walks] [ARGM-LOC: in La Rochelle] .,I-ARGM-LOC
+80,Raymond walks in Calais.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Raymond] [V: walks] [ARGM-LOC: in Calais] .,I-ARGM-LOC
+81,Christian walks in Aubervilliers.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Christian] [V: walks] [ARGM-LOC: in Aubervilliers] .,I-ARGM-LOC
+82,Émile walks in Colombes.,Émile walks in Colombes.,Émile walks in Colombes.,s
+83,Arnaud walks in Chambéry.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Arnaud] [V: walks] [ARGM-MNR: in Chambéry] .,I-ARGM-MNR
+84,Alfred walks in Rueil-Malmaison.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Alfred] [V: walks] [ARGM-LOC: in Rueil - Malmaison] .,I-ARGM-LOC
+85,Dominique walks in Asnières-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Dominique] [V: walks] [ARGM-LOC: in Asnières - sur - Seine] .,I-ARGM-LOC
+86,Jean-Louis walks in Vitry-sur-Seine.,Jean-Louis walks in Vitry-sur-Seine.,Jean-Louis walks in Vitry-sur-Seine.,e
+87,Sébastien walks in Poitiers.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Sébastien] [V: walks] [ARGM-LOC: in Poitiers] .,I-ARGM-LOC
+88,Jean-Louis walks in Saint-Pierre.,Jean-Louis walks in Saint-Pierre.,Jean-Louis walks in Saint-Pierre.,e
+89,Joseph walks in Marseille.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Joseph] [V: walks] [ARGM-LOC: in Marseille] .,I-ARGM-LOC
+90,Henry walks in Pau.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Henry] [V: walks] [ARGM-MNR: in Pau] .,I-ARGM-MNR
+91,Francis walks in Avignon.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Francis] [V: walks] [ARGM-LOC: in Avignon] .,I-ARGM-LOC
+92,Patrice walks in La Rochelle.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Patrice] [V: walks] [ARGM-LOC: in La Rochelle] .,I-ARGM-LOC
+93,Jean-Paul walks in Cholet.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Jean - Paul] [V: walks] [ARGM-MNR: in Cholet] .,I-ARGM-MNR
+94,Lucien walks in Vitry-sur-Seine.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Lucien] [V: walks] [ARGM-LOC: in Vitry - sur - Seine] .,I-ARGM-LOC
+95,Michel walks in Béziers.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Michel] [V: walks] [ARGM-MNR: in Béziers] .,I-ARGM-MNR
+96,Jean-Michel walks in Vitry-sur-Seine.,"['B-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jean - Michel] [V: walks] [ARGM-LOC: in Vitry - sur - Seine] .,I-ARGM-LOC
+97,Marc walks in Cholet.,"['B-ARG0', 'B-V', 'B-ARGM-MNR', 'I-ARGM-MNR', 'O']",[ARG0: Marc] [V: walks] [ARGM-MNR: in Cholet] .,I-ARGM-MNR
+98,Jules walks in Avignon.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Jules] [V: walks] [ARGM-LOC: in Avignon] .,I-ARGM-LOC
+99,Christophe walks in Le Havre.,"['B-ARG0', 'B-V', 'B-ARGM-LOC', 'I-ARGM-LOC', 'I-ARGM-LOC', 'O']",[ARG0: Christophe] [V: walks] [ARGM-LOC: in Le Havre] .,I-ARGM-LOC
